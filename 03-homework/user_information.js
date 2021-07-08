@@ -1,4 +1,4 @@
-const accounts = [
+ const accounts = [
     {
         iban: 'trxx yyyy xxxx yyyy',
         balance: 100,
@@ -13,7 +13,7 @@ const accounts = [
     }
 ];
 
-export const user = {
+ export const user = {
     name: 'Jane',
     surname: 'Doe',
     accounts
